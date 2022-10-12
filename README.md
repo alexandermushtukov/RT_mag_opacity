@@ -1,4 +1,4 @@
-# RT_mag_opacity
+# Opacity of strongly magnetised high temperature plasma
 
 The repository contains the files with the grid Rosseland opacities calculated across and along the magnetic field, 
 computed with various contribution of electron-positron pairs. 
