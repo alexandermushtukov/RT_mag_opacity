@@ -2,7 +2,8 @@
 
 The repository contains the files with the grid Rosseland opacities calculated across and along the magnetic field, 
 computed with various contribution of electron-positron pairs. 
-Calculatios are discribed in a paper **"Mean opacities of a strongly magnetized high temperature plasma" by Suleimanov et al., 2022, MNRAS**.
+Calculatios are discribed in a paper **"Mean opacities of a strongly magnetized high temperature plasma" by Suleimanov et al., 2022, MNRAS** 
+[[see arXiv]](https://arxiv.org/abs/2210.09995).
 
 The opacities represented in different files are computed under different assumptions about contribution of electron-positron pair. 
 In particular, the files contained in archives **ross1.zip** and **ross2.zip** correspond to the opacities across and along the field respectively  with the pairs in thermodynamic equilibrium and opacities due to pair creation taken into account. 
